@@ -1,0 +1,9 @@
+.idea/
+examples/
+node_modules/
+interfaces/
+CONTRIBUTING.md
+.travis.yaml
+*.tsx
+tsconfig.json
+node-markirovka-wrapper-*.tgz

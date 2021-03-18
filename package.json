@@ -1,0 +1,39 @@
+{
+  "name": "node-markirovka-wrapper",
+  "version": "0.0.1",
+  "description": "Node.js обертка для работы с API ГИС МТ",
+  "keywords": [
+    "front-end",
+    "Честный Знак",
+    "Маркировка",
+    "API ГИС МТ",
+    "Государственная информационная система мониторинга товаров"
+  ],
+  "type": "module",
+  "main": "index.js",
+  "typings": "index.tsx",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladdevops/node-markirovka-wrapper.git"
+  },
+  "author": {
+    "name": "Ustinov Vladislav",
+    "url": "https://github.com/vladdevops",
+    "email": "vlad.devops@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vladdevops/node-markirovka-wrapper/issues"
+  },
+  "homepage": "https://github.com/vladdevops/node-markirovka-wrapper#readme",
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
